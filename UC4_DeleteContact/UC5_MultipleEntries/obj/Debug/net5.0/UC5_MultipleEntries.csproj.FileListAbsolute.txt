@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC5_MultipleEntries\obj\Debug\net5.0\UC5_MultipleEntries.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC5_MultipleEntries\obj\Debug\net5.0\UC5_MultipleEntries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC5_MultipleEntries\obj\Debug\net5.0\UC5_MultipleEntries.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC5_MultipleEntries\obj\Debug\net5.0\UC5_MultipleEntries.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC5_MultipleEntries\obj\Debug\net5.0\UC5_MultipleEntries.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\bin\Debug\net5.0\UC3-EditContact.exe
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\bin\Debug\net5.0\UC3-EditContact.deps.json
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\bin\Debug\net5.0\UC3-EditContact.runtimeconfig.json
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\bin\Debug\net5.0\UC3-EditContact.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\bin\Debug\net5.0\UC3-EditContact.dll
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\bin\Debug\net5.0\UC3-EditContact.pdb
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\obj\Debug\net5.0\UC3-EditContact.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\obj\Debug\net5.0\UC3-EditContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\obj\Debug\net5.0\UC3-EditContact.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\obj\Debug\net5.0\UC3-EditContact.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\obj\Debug\net5.0\UC3-EditContact.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\obj\Debug\net5.0\UC3-EditContact.dll
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\obj\Debug\net5.0\refint\UC3-EditContact.dll
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\obj\Debug\net5.0\UC3-EditContact.pdb
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\obj\Debug\net5.0\UC3-EditContact.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\UC3-EditContact\UC3-EditContact\obj\Debug\net5.0\ref\UC3-EditContact.dll

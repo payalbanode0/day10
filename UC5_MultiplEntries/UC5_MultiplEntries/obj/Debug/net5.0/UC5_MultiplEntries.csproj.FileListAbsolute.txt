@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\bin\Debug\net5.0\UC5_MultiplEntries.exe
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\bin\Debug\net5.0\UC5_MultiplEntries.deps.json
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\bin\Debug\net5.0\UC5_MultiplEntries.runtimeconfig.json
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\bin\Debug\net5.0\UC5_MultiplEntries.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\bin\Debug\net5.0\UC5_MultiplEntries.dll
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\bin\Debug\net5.0\UC5_MultiplEntries.pdb
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\obj\Debug\net5.0\UC5_MultiplEntries.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\obj\Debug\net5.0\UC5_MultiplEntries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\obj\Debug\net5.0\UC5_MultiplEntries.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\obj\Debug\net5.0\UC5_MultiplEntries.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\obj\Debug\net5.0\UC5_MultiplEntries.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\obj\Debug\net5.0\UC5_MultiplEntries.dll
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\obj\Debug\net5.0\refint\UC5_MultiplEntries.dll
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\obj\Debug\net5.0\UC5_MultiplEntries.pdb
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\obj\Debug\net5.0\UC5_MultiplEntries.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\UC5_MultiplEntries\UC5_MultiplEntries\obj\Debug\net5.0\ref\UC5_MultiplEntries.dll

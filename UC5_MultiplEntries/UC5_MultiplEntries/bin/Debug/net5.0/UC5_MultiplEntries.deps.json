@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UC5_MultiplEntries/1.0.0": {
+        "runtime": {
+          "UC5_MultiplEntries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UC5_MultiplEntries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

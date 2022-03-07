@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\bin\Debug\net5.0\UC4_DeleteContact.exe
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\bin\Debug\net5.0\UC4_DeleteContact.deps.json
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\bin\Debug\net5.0\UC4_DeleteContact.runtimeconfig.json
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\bin\Debug\net5.0\UC4_DeleteContact.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\bin\Debug\net5.0\UC4_DeleteContact.dll
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\bin\Debug\net5.0\UC4_DeleteContact.pdb
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\obj\Debug\net5.0\UC4_DeleteContact.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\obj\Debug\net5.0\UC4_DeleteContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\obj\Debug\net5.0\UC4_DeleteContact.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\obj\Debug\net5.0\UC4_DeleteContact.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\obj\Debug\net5.0\UC4_DeleteContact.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\obj\Debug\net5.0\UC4_DeleteContact.dll
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\obj\Debug\net5.0\refint\UC4_DeleteContact.dll
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\obj\Debug\net5.0\UC4_DeleteContact.pdb
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\obj\Debug\net5.0\UC4_DeleteContact.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\UC4_DeleteContact\UC4_DeleteContact\obj\Debug\net5.0\ref\UC4_DeleteContact.dll
